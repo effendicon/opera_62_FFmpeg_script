@@ -21,7 +21,7 @@ read secenek
 
 case $secenek in
         1)
-          sudo apt wget -y 
+          sudo apt install wget -y
                    echo & sudo ./opera.sh
           ;;
         2)
